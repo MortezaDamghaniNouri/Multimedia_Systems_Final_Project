@@ -1,9 +1,12 @@
+# This is Pillow library which is used in many parts of the code
 from PIL import Image
+# This library is used for fetching the arrays of images
 import numpy as np
+# This library is used for reading the image file
 import matplotlib.image as mpimg
 
 
-
+# This function converts RGB input image to grayscale format
 def rgb_to_gray(img):
 
         R = np.array(img[:, :, 0])
@@ -22,13 +25,16 @@ def rgb_to_gray(img):
 
         return grayImage
 
-image = mpimg.imread("Images/Test4.jpg")
+
+
+# Main part of the code starts here
+input_image_location = input("Enter the location of the input image(example: Images/Test4.jpg): ")
+image = mpimg.imread(input_image_location)
 image = image.copy()
-# print(str(image.flags))
-# image.setflags(write=1)
 gray_image = rgb_to_gray(image)
-to_save = Image.fromarray(gray_image)
-to_save.save('Images/greyscale33.png')
+grayscale_output = Image.fromarray(gray_image)
+grayscale_output.save('Grayscale_Input_Image.png')
+
 
 
 
