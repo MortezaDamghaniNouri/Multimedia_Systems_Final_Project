@@ -105,22 +105,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="214" key="GridCell.Tab.0.bottom" timestamp="1626031303306">
+    <state width="1237" height="214" key="GridCell.Tab.0.bottom" timestamp="1626031530257">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="214" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1626031303306" />
-    <state width="1237" height="214" key="GridCell.Tab.0.center" timestamp="1626031303306">
+    <state width="1237" height="214" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1626031530257" />
+    <state width="1237" height="214" key="GridCell.Tab.0.center" timestamp="1626031530257">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="214" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1626031303306" />
-    <state width="1237" height="214" key="GridCell.Tab.0.left" timestamp="1626031303306">
+    <state width="1237" height="214" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1626031530257" />
+    <state width="1237" height="214" key="GridCell.Tab.0.left" timestamp="1626031530257">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="214" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1626031303306" />
-    <state width="1237" height="214" key="GridCell.Tab.0.right" timestamp="1626031303306">
+    <state width="1237" height="214" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1626031530257" />
+    <state width="1237" height="214" key="GridCell.Tab.0.right" timestamp="1626031530257">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="214" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1626031303306" />
+    <state width="1237" height="214" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1626031530257" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Multimedia_Systems_Final_Project$Main2.coverage" NAME="Main2 Coverage Results" MODIFIED="1626031303294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
